@@ -1,0 +1,9 @@
+/* Hapus semua CSS yang berhubungan dengan slideshow */
+.slideshow-container,
+.slide,
+.prev,
+.next,
+.fade,
+@keyframes fade {
+    /* Hapus semua properti ini */
+} ;
